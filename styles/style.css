@@ -145,7 +145,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content:space-between;
     list-style-type: none;
 }
 .navigation_item{
@@ -465,6 +465,7 @@ body{
 .customer_testimonial{
     width: 90%;
     margin: auto;
+    min-height: 18rem;
    
 }
 .customer_img{
